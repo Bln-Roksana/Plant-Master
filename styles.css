@@ -1,0 +1,61 @@
+h1{
+  font-family: 'Kirang Haerang', cursive;
+  font-size: 5rem;
+  color: #628B48;
+  /* color: yellow; */
+}
+
+h3{
+  font-family: 'Kirang Haerang', cursive;
+  font-size: 3rem;
+  color: #456632;
+  padding-top: 3%;
+  /* color: yellow; */
+}
+h3:hover{
+  color:#14290E;
+}
+
+body{
+  background-color: #FAFCEA;
+}
+
+p{
+  font-size: 3rem;
+  font-family: 'Irish Grover', cursive;
+}
+
+
+
+.container{
+  padding-top: 2%;
+  text-align: center;
+}
+
+.img{
+  width: 130%;
+  margin-left: -15%;
+}
+
+
+.player{
+  display: inline-block;
+  padding: 10% 10% 10% 10%;
+  text-align: center;
+}
+
+
+
+footer{
+  text-align: center;
+}
+
+footer p{
+  color: #524a41;
+  font-size: 1rem;
+  margin-bottom: 0;
+}
+footer a{
+  color: #524a41;
+  font-size: 0.8rem;
+}
