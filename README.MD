@@ -1,2 +1,2 @@
 # Plant master
-bla bla
+Remake of popular dice "game" aimed at gardeners.
